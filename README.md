@@ -3,7 +3,7 @@
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/akhilesh0707)
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/akhilesh0707)
 
-### Hi there <img src="https://github.com/akhilesh0707/akhilesh0707/blob/master/Hi.gif" width="29px">! I am Akhilesh
+### Hi there <img src="https://github.com/akhilesh0707/akhilesh0707/blob/master/Hi.gif" width="29px"> I am Akhilesh
 - 🎓 Oracle Certified Java Developer
 - 📱 Android Developer 
 - 📱 Phonegap Developer
