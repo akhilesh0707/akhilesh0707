@@ -6,8 +6,10 @@
 
 ### Hi there <img src="https://github.com/akhilesh0707/akhilesh0707/blob/master/Hi.gif" width="29px"> I am Akhilesh
 - 🎓 Oracle Certified Java Developer
-- 📱 Android Developer 
-- 📱 Phonegap Developer
+- 📱 Android App Developer 
+- 📱 Phonegap App Developer
+- 🖥️ Desktop App Developer (Swing, Visual Basic)
+  
 
 
 
