@@ -8,7 +8,7 @@
 - 🎓 Oracle Certified Java Developer
 - 📱 Android App Developer 
 - 📱 Phonegap App Developer
-- 🖥️ Desktop App Developer (Swing, Visual Basic)
+  
   
 
 
