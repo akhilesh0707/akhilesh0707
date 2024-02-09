@@ -15,5 +15,4 @@
 
 
 
-[![akhilesh0707's github stats](https://github-readme-stats.vercel.app/api?username=akhilesh0707&show_icons=true&line_height=21&show_icons=true&theme=buefy&count_private=true&cache_seconds=1800)](https://github.com/akhilesh0707)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilesh0707&show_icons=true&theme=buefy&layout=compact&cache_seconds=1800)](https://github.com/akhilesh0707) <img src="https://profile-counter.glitch.me/akhilesh/count.svg" />
